@@ -1,0 +1,4 @@
+title: Cats
+modelClass: Arteriaweb\Shop\Models\Cat
+toolbar:
+    buttons: reorder_toolbar

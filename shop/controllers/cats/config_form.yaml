@@ -1,0 +1,11 @@
+name: Cats
+modelClass: Arteriaweb\Shop\Models\Cat
+form: $/arteriaweb/shop/models/cat/fields.yaml
+defaultRedirect: arteriaweb/shop/cats
+create:
+    redirect: 'arteriaweb/shop/cats/update/:id'
+    redirectClose: arteriaweb/shop/cats
+update:
+    redirect: arteriaweb/shop/cats
+    redirectClose: arteriaweb/shop/cats
+preview: {  }

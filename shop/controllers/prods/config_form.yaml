@@ -1,0 +1,11 @@
+name: Prods
+modelClass: Arteriaweb\Shop\Models\Prod
+form: $/arteriaweb/shop/models/prod/fields.yaml
+defaultRedirect: arteriaweb/shop/prods
+create:
+    redirect: 'arteriaweb/shop/prods/update/:id'
+    redirectClose: arteriaweb/shop/prods
+update:
+    redirect: arteriaweb/shop/prods
+    redirectClose: arteriaweb/shop/prods
+preview: {  }

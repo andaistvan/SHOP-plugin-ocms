@@ -1,0 +1,20 @@
+plugin:
+    name: 'arteriaweb.shop::lang.plugin.name'
+    description: 'arteriaweb.shop::lang.plugin.description'
+    author: arteriaweb
+    icon: oc-icon-money
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Shop
+        url: arteriaweb/shop/prods
+        icon: icon-money
+        sideMenu:
+            side-menu-item:
+                label: Products
+                url: arteriaweb/shop/prods
+                icon: icon-money
+            side-menu-item2:
+                label: Categories
+                url: arteriaweb/shop/cats
+                icon: icon-spinner

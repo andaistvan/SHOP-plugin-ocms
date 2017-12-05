@@ -1,0 +1,11 @@
+title: Prods
+modelClass: Arteriaweb\Shop\Models\Prod
+list: $/arteriaweb/shop/models/prod/columns.yaml
+recordUrl: 'arteriaweb/shop/prods/update/:id'
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'

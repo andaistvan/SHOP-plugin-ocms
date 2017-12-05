@@ -1,0 +1,10 @@
+columns:
+    id:
+        label: id
+        type: number
+    cat_name:
+        label: name
+        type: text
+    slug:
+        label: slug
+        type: text

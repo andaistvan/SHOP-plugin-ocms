@@ -1,0 +1,4 @@
+title: Prods
+modelClass: Arteriaweb\Shop\Models\Prod
+toolbar:
+    buttons: reorder_toolbar

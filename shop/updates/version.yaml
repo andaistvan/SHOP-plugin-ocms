@@ -1,0 +1,26 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table arteriaweb_shop_prod'
+    - builder_table_create_arteriaweb_shop_prod.php
+1.0.3:
+    - 'Created table arteriaweb_shop_cat'
+    - builder_table_create_arteriaweb_shop_cat.php
+1.0.4:
+    - 'Updated table arteriaweb_shop_prod'
+    - builder_table_update_arteriaweb_shop_prods.php
+1.0.5:
+    - 'Updated table arteriaweb_shop_cat'
+    - builder_table_update_arteriaweb_shop_cats.php
+1.0.6:
+    - 'Updated table arteriaweb_shop_cats'
+    - builder_table_update_arteriaweb_shop_cats_2.php
+1.0.7:
+    - 'Created table arteriaweb_shop_prods_cats'
+    - builder_table_create_arteriaweb_shop_prods_cats.php
+1.0.8:
+    - 'Updated table arteriaweb_shop_prods'
+    - builder_table_update_arteriaweb_shop_prods_2.php
+1.0.9:
+    - 'Updated table arteriaweb_shop_cats'
+    - builder_table_update_arteriaweb_shop_cats_3.php
